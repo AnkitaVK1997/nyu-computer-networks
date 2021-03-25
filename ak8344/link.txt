@@ -1,1 +1,6 @@
-http://169.57.56.147:31820/datehttp://169.57.56.147:31820/square/nono can be of any choicehttp://169.57.56.147:31820/divide /x/yx and y are the divide nos
+http://169.57.56.147:30044/date
+
+http://169.57.56.147:30044/square?a=3
+
+http://169.57.56.147:30044/divide?x=9&y=3
+
